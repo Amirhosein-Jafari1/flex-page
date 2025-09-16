@@ -1,15 +1,15 @@
 @font-face {
     font-family: vazirB;
-    src: url(/assets/font/persian-font/vazir-font-v18.0.0/Vazir-Bold.woff2);
+    src: url(assets/font/persian-font/vazir-font-v18.0.0/Vazir-Bold.woff2);
 }
 @font-face {
     font-family: vazirM;
-    src: url(/assets/font/persian-font/vazir-font-v18.0.0/Vazir-Medium.woff2);
+    src: url(assets/font/persian-font/vazir-font-v18.0.0/Vazir-Medium.woff2);
 }
 @font-face {
     font-family: vazir;
-    src: url(/assets/font/persian-font/vazir-font-v18.0.0/Vazir-Light.woff);
-    src: url(/assets/font/persian-font/vazir-font-v18.0.0/Vazir-Light.woff2);
+    src: url(assets/font/persian-font/vazir-font-v18.0.0/Vazir-Light.woff);
+    src: url(assets/font/persian-font/vazir-font-v18.0.0/Vazir-Light.woff2);
 }
 
 
