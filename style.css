@@ -1,15 +1,15 @@
 @font-face {
     font-family: vazirB;
-    src: url(assets/font/persian-font/vazir-font-v18.0.0/Vazir-Bold.woff2);
+    src: url(assets/font/vazir-font-v18.0.0/Vazir-Bold.woff2);
 }
 @font-face {
     font-family: vazirM;
-    src: url(assets/font/persian-font/vazir-font-v18.0.0/Vazir-Medium.woff2);
+    src: url(assets/font/vazir-font-v18.0.0/Vazir-Medium.woff2);
 }
 @font-face {
     font-family: vazir;
-    src: url(assets/font/persian-font/vazir-font-v18.0.0/Vazir-Light.woff);
-    src: url(assets/font/persian-font/vazir-font-v18.0.0/Vazir-Light.woff2);
+    src: url(assets/font/vazir-font-v18.0.0/Vazir-Light.woff);
+    src: url(assets/font/vazir-font-v18.0.0/Vazir-Light.woff2);
 }
 
 
@@ -57,7 +57,7 @@ body{
 
 .menu ul{
     list-style: none;
-    background-color: cadetblue;
+    background-color: #96794f;
     border-radius: 5px;
     padding: 5px 10px 5px 10px ;
     display: flex;
@@ -80,7 +80,7 @@ body{
 .main-content{
     padding: 20px;
     text-align: center;
-    background: url(/assets/img/21.jpg) no-repeat center/ cover;
+    background: #cea870;
     flex: 1;
     display: flex;
     align-items: center;
@@ -89,7 +89,7 @@ body{
 }
 
 .main-content h1{
-    color: white;
+    color: #ffffff;
     margin: 15px 0 20px;
     font-size: 30px;
 
@@ -107,7 +107,7 @@ body{
 }
 
 .product-card{
-    background-color: #ffffff;
+    background-color: #f9f9f9;
     border: 1px solid #949292;
     border-radius: 8px;
     padding: 10px;
@@ -120,7 +120,7 @@ body{
 }
 
 .product-card:hover{
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.582);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.582 );
     transform: scale(1.1);
 }
 
@@ -132,7 +132,7 @@ body{
     }
 
 .product-price{
-    color: red;
+    color: rgb(224, 66, 66);
     font-size: 16px;
 
 }
@@ -151,7 +151,7 @@ body{
 
 .buy-button:hover{
 
-    transform: translatey(10px);
+    transform: scale(1.3)
 }
 
 .footer{
